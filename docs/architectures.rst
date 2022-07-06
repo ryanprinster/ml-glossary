@@ -320,6 +320,11 @@ An example implementation in PyTorch of a Convolutional Variational Autoencoder.
 - `Deep Learning Book <http://www.deeplearningbook.org/contents/autoencoders.html>`_
 
 
+Transformer
+===
+
+
+
 .. rubric:: References
 
 .. [1] https://hackernoon.com/autoencoders-deep-learning-bits-1-11731e200694
